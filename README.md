@@ -1,8 +1,9 @@
-### Hi there 👋, I am Azatha Reddy
-#### I am a Software Engineer
+#Azatha Reddy
+- I am a Software Engineer
 I'm Azatha from India. Pursuing a master's degree in Digital Engineering in Germany. 
 
-Skills: PYTHON/ JAVA / C /  HTML / MATLAB
+## Skills
+💻 PYTHON/ JAVA / C /  HTML / MATLAB
 
 - 🔭 I’m currently working on the Front end development projects 
 
