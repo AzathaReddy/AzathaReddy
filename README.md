@@ -1,6 +1,6 @@
 # Azatha Reddy
 - I am a Software Engineer
-I'm Azatha from India. Pursuing a master's degree in Digital Engineering in Germany. 
+- I'm Azatha from India. Pursuing a master's degree in Digital Engineering in Germany. 
 
 ## Skills
 💻 PYTHON/ JAVA / C /  HTML / MATLAB
